@@ -1,0 +1,7 @@
+POST  https://phonebook-backend-2020.herokuapp.com/api/persons
+Content-Type: application/json
+
+{
+    "name": "New Person",
+    "number": "123456789"
+}
